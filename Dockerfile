@@ -1,4 +1,4 @@
-FROM alpine:3.10.3
+FROM alpine:3.10.1
 RUN apk add --no-cache \
     python=2.7.16-r1 \
     python-dev=2.7.16-r1 \
